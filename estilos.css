@@ -1,0 +1,56 @@
+@charset "utf-8";
+h1{
+    font-size: 50px;
+}
+#form{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+body{
+    background: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/286/775/HD-wallpaper-library-architecture-house-cool-fun.jpg); 
+   
+}
+#form form input{
+    width: 100%;
+    height: 35px;
+}
+form button{
+    width: 50%;
+    height: 35px;
+}
+table {
+    width:100%;
+    border: 1px;
+    border:solid #8E4210 3px;
+    background-color:  #C67200 ;
+    border-radius: 5px;
+}
+#ps{
+    width: 45cm;
+    height: 35px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+td{
+    background-color:  #C67200 ;
+    border:solid #8E4210  1px;
+    border-radius: 5px;
+}
+input{
+    background-color:#E79E3A;
+    border:solid black  1px;
+    border-radius: 5px;
+    color: brown;
+    
+}
+button{
+    background-color:#905300 ;
+    border:solid black  1px;
+    border-radius: 5px;
+}
+a{
+    color: #6E3F00;
+}
